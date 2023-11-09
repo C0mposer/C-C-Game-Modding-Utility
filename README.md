@@ -63,7 +63,7 @@ in_game int ReturnCompletionPercentage(void); 	 	//0x800501C0
 in_game void DrawText(char* text_string, int x, int y); //0x80048250
 
 ```
-*Note that you MUST put the memory address of the symbol as a // comment next to the declaration. This is not a real keyword, just a nice shortcut*
+*Note that you MUST put the memory address of the symbol as a // comment next to the declaration. in_game is not a real keyword, just a nice shortcut*
 
 Once you declare the symbols as **in_game** variables/functions, you can use them in your code like any other variable/function:
 ```c
