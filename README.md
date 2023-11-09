@@ -81,7 +81,7 @@ void MainHook(void)
 }
 ```
 
-####Compiling, Building, & Injecting
+#### Compiling, Building, & Injecting
 Once you have written some code, you can compile it with the "**Compile Mod**" button in the utility, or with one of the built in tasks in VSCode/Sublime.
 
 If the compilation is successful, you can then build your mod to an ISO/BIN. You first select the original game ISO/BIN file as a base, then it will create a new ISO/BIN with your mod injected.
