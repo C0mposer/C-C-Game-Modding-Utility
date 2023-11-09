@@ -11,7 +11,7 @@ It streamlines the process of compiling C/C++ with the intention of being inject
 - N64 Games* *(needs further testing)*
 
 ## Quick Start:
-***This quick start will get you up and running creating a mod for your game that runs every frame along side the game***
+***This quick start will get you up and running creating a mod that runs every frame along side a game***
 
 #### Creating a Project
 To get started, you'll need to create a project for your game mod.
