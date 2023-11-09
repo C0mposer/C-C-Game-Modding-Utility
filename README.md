@@ -105,14 +105,17 @@ You can also inject your mod into supported emulators to test your mod without r
  - [Dolphin Memory Engine](https://github.com/aldelaro5/Dolphin-memory-engine) for memory searching in Gamecube/Wii games
 - [VSCode](https://github.com/microsoft/vscode) or [Sublime](https://www.sublimetext.com/) text editors, for automatic integration with projects.
 ## Supported Emulators
- - [Dolphin 5.0-19870](https://dolphin-emu.org/download/dev/032c77b462a220016f23c5079e71bb23e0ad2adf/) for Gamecube  
- - [Dolphin 5.0-20240](https://dolphin-emu.org/download/dev/60e3b4c0932ca963c67922cd7deb5d7e90732b92/) for Gamecube  
- - [PCSX2 Stable 1.6.0](https://pcsx2.net/) for PS2  
- - [PCSX2 Nightly 1.7.5112](https://pcsx2.net/downloads/#:~:text=Links,Download) for PS2  
- - [Duckstation 0.1 5936](https://github.com/stenzek/duckstation/releases/tag/latest) for PS1  
- - [Mednefan 1.31](https://mednafen.github.io/releases/) for PS1  
- - [Mednefan 1.29](https://mednafen.github.io/releases/) for PS1  
- - [Bizhawk 2.6.1](https://tasvideos.org/BizHawk/ReleaseHistory#Bizhawk261) for PS1  
+#### Gamecube
+ - [Dolphin 5.0-19870](https://dolphin-emu.org/download/dev/032c77b462a220016f23c5079e71bb23e0ad2adf/)   
+ - [Dolphin 5.0-20240](https://dolphin-emu.org/download/dev/60e3b4c0932ca963c67922cd7deb5d7e90732b92/)  
+ #### PS2
+ - [PCSX2 Stable 1.6.0](https://pcsx2.net/)  
+ - [PCSX2 Nightly 1.7.5112](https://pcsx2.net/downloads/#:~:text=Links,Download)  
+ #### PS1
+ - [Duckstation 0.1 5936](https://github.com/stenzek/duckstation/releases/tag/latest)  
+ - [Mednefan 1.31](https://mednafen.github.io/releases/)  
+ - [Mednefan 1.29](https://mednafen.github.io/releases/)  
+ - [Bizhawk 2.6.1](https://tasvideos.org/BizHawk/ReleaseHistory#Bizhawk261)  
 
 ## Bundled Tools / Special Thanks
  - [devkitPro](https://github.com/devkitPro) for GCC toolchains targeted towards Gamecube/Wii PPC, as well as utilities for analyzing .dol files.
