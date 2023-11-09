@@ -27,7 +27,7 @@ At a high level, here is how injecting mod code into a game using this utility w
 1.  **Code caves:** First things first, we need a free place in the games ram that can be used for the mod code. The easiest way is to look for unused/free sections of the games main executable, that also still happens to get loaded into ram. These free sections are called [code caves.](https://en.wikipedia.org/wiki/Code_cave)  (*These can unused/debug strings, unused functions/code, sometimes a block of 0's, etc*).
 Once you have found a code cave you fill out its info, and click "**Add/Save Codecave**": 
 ![codecaves](codecaves.png)
-a. You give it a name  
+a. Give the codecave a name  
 b. Fill out the address in RAM  
 c. Fill out the equivalent address in main executable  
 d. Fill the .c/.cpp files in your projects *src/* dir   you'd like to be compiled into that codecave area  
